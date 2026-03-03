@@ -59,9 +59,3 @@ http://localhost:3000
 - 🎨 Modern UI design
 - 🔄 API integration
 
----
-
-## 👨‍💻 Author
-
-**Sandesh**  
-Frontend Developer | AI/ML Enthusiast
